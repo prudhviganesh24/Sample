@@ -7,6 +7,7 @@ public class Sample extends Abcv implements sam, g {
 public void m()
 {
 	System.out.println("hi");
+	System.out.println("7");
 }
 
 
